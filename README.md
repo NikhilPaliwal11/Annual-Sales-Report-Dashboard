@@ -23,3 +23,6 @@ Insight:
 
 ![Screenshot 2024-02-06 172818](https://github.com/NikhilPaliwal11/Annual-Sales-Report-Dashboard/assets/61961464/f774ccb2-5bc6-4931-abf4-6a91a982524e)
 
+• Did Sales Forecasting for next 20 days using Forecasting  Tool in Power BI with 95 % Confidence Interval.
+
+• Please do ⭐ the repository, if it helped you in anyway.
