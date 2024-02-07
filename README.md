@@ -2,7 +2,7 @@
 
 • Incorporated data analysis techniques to deliver valuable insight and Did Sales Forcasting for next 20 days.
 
-![Screenshot 2024-02-06 172628](https://github.com/NikhilPaliwal11/Annual-Sales-Report-Dashboard/assets/61961464/6cc2f91b-e06b-42b1-bf57-67631310f31f)
+![Screenshot 2024-02-07 170539](https://github.com/NikhilPaliwal11/Annual-Sales-Report-Dashboard/assets/61961464/eef35211-cb86-415c-b6ea-9c0ffcb65b5b)
 
 Insight:
 • Created Different KPI for Sales , Profit , Quantity sold annually
@@ -13,3 +13,6 @@ Insight:
 • Plotted Donut Chart for Sales by Payment method and found that COD (Cash on Dilevery) around 42.62%  is used most of the time 
 • Plotted Clustered Chart for Sales By Category and found that Office supplies has maximum sales around 6.43 lakh.
 • Plotted Clustered chart for Sales By Ship mode and found that Standard Class is mostly used for shipment.
+
+![Screenshot 2024-02-06 172818](https://github.com/NikhilPaliwal11/Annual-Sales-Report-Dashboard/assets/61961464/f774ccb2-5bc6-4931-abf4-6a91a982524e)
+
