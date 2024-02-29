@@ -7,7 +7,7 @@
 Insight:
 • Created Different KPI for Sales , Profit , Quantity sold annually.
 
-• Used DAX to find out how much average Dilvery time it takes for 1 order and found that average delivery time is 4 Days.
+• Used DAX to find out how much average Delivery time it takes for 1 order and found that average delivery time is 4 Days.
 
 • Plotted Area Chart for Sales by month and profit by month.
 
